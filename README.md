@@ -2,7 +2,7 @@
 
 ## My name is Jack!
 
-I currently study Math at Hope College in Holland, MI. I use data analysis and statistical learning methods to solve problems. I also enjoy building web applications, and learning about software development.
+I currently study Math at Hope College in Holland, MI. I use data analysis and statistical learning methods to solve problems. I also enjoy building web applications and learning about software development.
 
 
 <!--
