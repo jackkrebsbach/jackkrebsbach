@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## My name is Jack!
+
+I currently study Math at Hope College in Holland, MI. I use data analysis and statistical learning methods to solve problems. I also enjoy building web applications, and learning about software development.
+
+
 <!--
 **jackkrebsbach/jackkrebsbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
