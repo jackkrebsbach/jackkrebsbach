@@ -2,7 +2,7 @@
 
 ## My name is Jack!
 
-I use data analysis and statistical learning methods to solve problems. I also enjoy building web applications and learning about software development.
+I am a first year graduate student studying Applied Mathematics at Univeristy of Colorado Boulder
 
 
 <!--
